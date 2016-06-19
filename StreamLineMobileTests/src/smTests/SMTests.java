@@ -190,6 +190,11 @@ public class SMTests extends BaseTest {
 				
 	}
 	
+	@Test
+	public void anothertest()
+	{
+		// do nothing
+	}
 	
 	/*******************************************************************************************
 	 * 
