@@ -191,15 +191,7 @@ public class SMTests extends BaseTest {
 				
 	}
 	
-	@Test
-	public void sampleTest()
-	{
-		System.out.println("sample test by another user");
-		System.out.println("sample 2 test by another user");
-		System.out.println("sample 2 test by another user");
-		System.out.println("sample 4th update");
-		
-	}
+	
 	/*******************************************************************************************
 	 * 
 	 * 
