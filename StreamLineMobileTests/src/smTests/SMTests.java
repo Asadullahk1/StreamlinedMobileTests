@@ -187,6 +187,7 @@ public class SMTests extends BaseTest {
 							acceptedText.length() == 9);
 		
 		Assert.assertTrue(CheckUtil.GetStatus(), "At least one of the Checks has failed");
+		
 				
 	}
 	
@@ -195,7 +196,12 @@ public class SMTests extends BaseTest {
 	{
 		// do nothing
 	}
-	
+	@Test
+	public void sampleTest()
+	{
+		System.out.println("sample test by another user");
+		System.out.println("sample 2 test by another user");
+	}
 	/*******************************************************************************************
 	 * 
 	 * 
