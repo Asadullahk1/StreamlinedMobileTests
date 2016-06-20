@@ -8,7 +8,7 @@ import pages.LoginPage;
 import utility.CheckUtil;
 import webDriverExtensionPage.Page;
 
-public class SMTests extends BaseTest {
+public class SMTestsSuitA extends BaseTest {
 
 	String siteURL = "https://uat.ordermychecks.com/login_a.jsp";
 	
