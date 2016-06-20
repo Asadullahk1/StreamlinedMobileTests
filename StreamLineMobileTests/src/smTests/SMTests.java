@@ -23,7 +23,7 @@ public class SMTests extends BaseTest {
 	 *	2. Image verification
 	 *******************************************************************************************/	
 	@Test
-	public void productImageCarouselTest()
+	public void productImageTest_113494()
 	{
 		Page.goToURL(siteURL);
 		Page.setWindowSize(650,900);
@@ -48,7 +48,7 @@ public class SMTests extends BaseTest {
 	 * and 'other' will display corresponding help image
 	 *******************************************************************************************/	
 	@Test
-	public void RN_MandatoryTest()
+	public void RN_MandatoryTest_113495()
 	{
 		Page.goToURL(siteURL);
 		Page.setWindowSize(650,900);
@@ -141,7 +141,7 @@ public class SMTests extends BaseTest {
 	 * 	
 	 *******************************************************************************************/	
 	@Test
-	public void RN_OnlyNumericTest()
+	public void RN_OnlyNumericTest_113496()
 	{
 		Page.goToURL(siteURL);
 		Page.setWindowSize(650,900);
@@ -174,7 +174,7 @@ public class SMTests extends BaseTest {
 	 * 	
 	 *******************************************************************************************/	
 	@Test
-	public void RN_MaxDigitsTest()
+	public void RN_MaxDigitsTest_113497()
 	{
 		Page.goToURL(siteURL);
 		Page.setWindowSize(650,900);
@@ -190,18 +190,7 @@ public class SMTests extends BaseTest {
 		
 				
 	}
-	
-	@Test
-	public void anothertest()
-	{
-		// do nothing
-	}
-	@Test
-	public void sampleTest()
-	{
-		System.out.println("sample test by another user");
-		System.out.println("sample 2 test by another user");
-	}
+		
 	
 	/*******************************************************************************************
 	 * 
