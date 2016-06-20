@@ -9,7 +9,7 @@ public class SMTestsSuitB extends BaseTest{
 	@Test
 	public void dummyTest()
 	{
-		
+		System.out.println("Hello");
 	}
 	
 }
